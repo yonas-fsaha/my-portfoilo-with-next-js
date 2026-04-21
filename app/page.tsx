@@ -33,7 +33,7 @@ export default function Home() {
   }
 
   const scrollToSection = (id) => {
-    const element = document.getElementById(id)
+    const element = document.getElementById(id: string)
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' })
       setActiveSection(id)
