@@ -32,8 +32,8 @@ export default function Home() {
     setDarkMode(!darkMode)
   }
 
-  const scrollToSection = (id) => {
-    const element = document.getElementById(id: string)
+  const scrollToSection = (id: string) => {
+    const element = document.getElementById(id)
     if (element) {
       element.scrollIntoView({ behavior: 'smooth' })
       setActiveSection(id)
