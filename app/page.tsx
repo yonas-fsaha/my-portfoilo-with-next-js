@@ -14,7 +14,7 @@ import TechMarketing from '../components/TechMarketing'
 import Footer from '../components/Footer'
 
 export default function Home() {
-  const [darkMode, setDarkMode] = useState(false)
+  const [darkMode, setDarkMode] = useState(true)
   const [activeSection, setActiveSection] = useState('home')
 
   useEffect(() => {
