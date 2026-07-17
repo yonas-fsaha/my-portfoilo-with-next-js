@@ -12,4 +12,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) 
 - [Next.js Documentation](https://nextjs.org/docs) - 
-- [Learn Next.js]
+- [Learn Next.
